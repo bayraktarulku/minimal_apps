@@ -22,7 +22,7 @@ Professional web security testing and reconnaissance tool.
 
 ```bash
 git clone <repository-url>
-cd PythonProject
+cd sentinel_scan
 ```
 
 ### 2. Create Virtual Environment
